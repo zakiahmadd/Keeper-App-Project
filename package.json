@@ -2,6 +2,7 @@
   "name": "using-pre-built-react-components-completed",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://zakiahmadd.github.io/Keeper-App-Project",
   "type": "module",
   "scripts": {
     "dev": "vite",
